@@ -5,7 +5,7 @@
 
 <p align="center"> - 🌱 Actualmente estoy aprendiendo <strong> react & rails </strong> </p>
 
-<p align="center"> - 👨‍💻 All of my projects are available at <a href="troopl.com/belenvitorino"> troopl.com/belenvitorino </a> </p>
+<p align="center"> - 👨‍💻 All of my projects are available at <a href="https://troopl.com/belenvitorino"> troopl.com/belenvitorino </a> </p>
 
 <p align="center"> - 📫 Como me encuentras <strong> rosabelen.v0610@gmail.com </strong> </p>
 
